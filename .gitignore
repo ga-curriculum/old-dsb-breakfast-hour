@@ -1,0 +1,17 @@
+# mac
+.DS_Store
+._*
+
+# windows
+thumbs.db
+[Dd]esktop.ini
+
+# jupyter
+.ipynb_checkpoints
+.virtual_documents/
+profile_default/
+ipython_config.py
+
+# jupyter ai
+dask-worker-space/
+
